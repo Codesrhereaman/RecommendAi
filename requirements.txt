@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+segmentation-models-pytorch
+mediapipe
+albumentations
+scikit-learn
+Pillow
+opencv-python-headless
+google-generativeai
+requests
+numpy
