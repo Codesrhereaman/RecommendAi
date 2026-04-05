@@ -1,14 +1,10 @@
 fastapi
 uvicorn
 python-multipart
-torch
-torchvision
-segmentation-models-pytorch
-mediapipe
-albumentations
-scikit-learn
-Pillow
-opencv-python-headless
-google-generativeai
-requests
 numpy
+pillow
+albumentations
+segmentation-models-pytorch
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
