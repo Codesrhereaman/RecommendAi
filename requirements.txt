@@ -5,5 +5,6 @@ numpy
 pillow
 albumentations
 segmentation-models-pytorch
-torch==2.2.2+cpu
-torchvision==0.17.2+cpu
+requests
+torch
+torchvision
